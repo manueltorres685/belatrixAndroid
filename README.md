@@ -186,7 +186,9 @@ NOTA: Dependiendo del proyecto y para modular el proyecto divido la capa de data
 ### Pregunta
 Diseña un custom view de una brújula utilizando canvas y pon el código que utilizarías en esta sección.
 
+### Respuesta:
 
+Ejemplo del codigo se puede visualizar en el módulo del proyecto compass_canvas
 ```kotlin
 class CompassView : View {
 
